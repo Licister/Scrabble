@@ -1,4 +1,4 @@
-#Scrabble-inspired functions
+# Scrabble-inspired functions
   
 This code was done for [Challenge #294: Rack management 1](https://www.reddit.com/r/dailyprogrammer/comments/5go843/20161205_challenge_294_easy_rack_management_1/) and [2](https://www.reddit.com/r/dailyprogrammer/comments/5h40ml/20161207_challenge_294_intermediate_rack/), using the language R.
   
